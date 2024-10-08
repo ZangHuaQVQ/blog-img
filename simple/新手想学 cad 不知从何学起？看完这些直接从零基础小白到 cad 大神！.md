@@ -89,27 +89,3 @@ CAD 制图就像 PS 做图一样，都是在图层上进行的，CAD 的默认�
 
 END
 
-  
-
-  
-
-**免费领取资料，可以扫描二维码添加**
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/VonZQo42nYnukp1cHEdYvmpiaziaxU47uwgZ0IfMtAibEF31VY4PGBspoeDAhboRITYb3ibIK23yfGMS4MdpqyXCSA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
-
-现在添加还可以获得量身打造的学习资料福利
-
-```
-如果你正在学习CAD
-那就快扫码关注我们吧
-一起学习，更精彩！
-
-
-
-
-免责声明：
-```
-
-```
-本文及图片来源网络，仅供分享不作商业用途，版权归原作者所有，部分文章及图片因转载众多，无法确认原作者及出处的，仅标明转载来源，如有侵权或原版权所有者不同意转载的请联系我们删除。本文为原作者个人观点，不代表本公众号赞同其观点和对其真实性负责
-```
